@@ -1,4 +1,4 @@
-<h1>Bot simples para consultar CEP</h1>
+<h1>Ferramenta simples para consultar CEP</h1>
 <h3>1.0</h3>
 
 <h3>💻 Termux</h3>
