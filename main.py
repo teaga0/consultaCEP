@@ -1,13 +1,15 @@
-import json
-import requests
+
 import os
-import time
+
 
 os.system('clear') or None
 os.system('pip install requests') or None
 os.system('pip install json') or None
 os.system('clear') or None
 
+import json
+import requests
+import time
 txt = """
 ╔════╦╗░╔╗░░░╔═══╗░░░░░░░░░░ ╔╗╔╗
 ║╔╗╔╗║║░║║░░░║╔═╗║░░░░░░░░░░░║╠╝╚╗
